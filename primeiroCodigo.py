@@ -1,0 +1,1 @@
+def main(): print("Hello World, eu sou a Carol") if __name__ == "__main__": main()
